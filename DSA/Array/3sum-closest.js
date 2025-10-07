@@ -9,8 +9,6 @@ var threeSumClosest = function (arr, target) {
         //sort
         arr.sort((a, b) => a - b);
 
-
-
         let left = i + 1;
         let right = arr.length - 1;
 
