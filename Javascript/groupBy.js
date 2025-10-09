@@ -45,3 +45,7 @@ var skillsArray = [
   { skill: "html", user: "Sue" },
 ];
 groupBy(skillsArray);
+
+
+
+// Awlway do dry run of your code before running dont get panic calm down try to understand the syntax to reduce the mistake
